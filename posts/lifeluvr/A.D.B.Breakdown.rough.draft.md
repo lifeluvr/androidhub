@@ -16,7 +16,7 @@ Another method is to use the file manager to open the location of the ADB binari
 
 If you've downloaded and unpacked Android Studio already, the ADB binaries are located in the _Android/android-studio/platform-tools_ folder. You can also find the ADB binaries online but, Android Studio's binaries are always current and up to date (If you update Android Studio).
 
-![cd2platform-tools](/library/cd2platform-tools.png)
+![cd2platform-tools](https://lh3.googleusercontent.com/-1r3DTn90RLE/Vt3JLcD9UcI/AAAAAAAACsQ/D1l_m9nIv6k/w807-h482-no/cd2platform-tools.png)
 
 That's all it takes to make ADB commands recognizable while using the terminal! You can check by typing:
 
@@ -40,7 +40,7 @@ If you open the file manager to the Linux root system files. There is a folder n
 ~$ cd  /usr/bin
 ````
 
-![usrBin](/library/usrBin.png)
+![usrBin](https://lh5.googleusercontent.com/-UcaFzxijNcw/Vt3JHlFx40I/AAAAAAAACsI/zHQoEqc1MJ8/w808-h498-no/usrBin.png)
 
 If you add the ADB binaries to that system binary location, your linux terminal will always have ADB abilities and, you won't have to bother with being in the same directory or folder with ADB! 
 
@@ -54,7 +54,7 @@ Let's use the "Front End" method, with root permissions, so we can watch all the
 
 Enter your password. When the file manager opens you'll need to navigate to the /usr/bin folder. Next, open a second file manager (root is optional) and go to the folder containing your downloaded ADB binaries. Now, copy n' paste the ADB binaries into the open /usr/bin folder and do the same thing with "Fastboot" while we're here. Exit all of your open windows.
 
-![copyNpaste](/library/copyNpaste.png/)
+![copyNpaste](https://lh6.googleusercontent.com/-xN9cKsTKqos/Vt3JJbYBQeI/AAAAAAAACsM/a2SnBYOIfZY/w697-h569-no/copyNpaste.png)
 
 You now have ADB binaries installed on BOTH your devices! Finally, your devices can communicate via ADB commands in the terminal!
 
