@@ -12,7 +12,7 @@ Since ADB doesn't have a GUI or front end, we're forced to use the terminal to a
 ~$ cd location/of/ADB/binaries
 ````
 
-Another method is to use the file manager to open the location of the ADB binaries. After you're in the same folder, left-click on any empty spot and select "Open in terminal". 
+Another method is to use the file manager to open the location of the ADB binaries. After you're in the same folder, right-click on any empty spot and select "Open in terminal". 
 
 If you've downloaded and unpacked Android Studio already, the ADB binaries are located in the _Android/android-studio/platform-tools_ folder. You can also find the ADB binaries online but, Android Studio's binaries are always current and up to date (If you update Android Studio).
 
